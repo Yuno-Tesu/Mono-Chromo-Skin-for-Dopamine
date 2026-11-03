@@ -5,7 +5,7 @@ This is a black and white monochrome skin for [Dopamine 3 developed by digimezzo
 _Reworked using the Dopamine theme._
 
 ## Light Theme
-![Light Theme](images/dopamine-light.png)
+![Light Theme](screenshots/light-theme.png)
 
 ## Dark Theme
-![Dark Theme](images/dopamine-dark.png)
+![Dark Theme](screenshots/dark-theme.png)
