@@ -1,4 +1,4 @@
-# Installing Theme
+# How to Install
 
 To install the theme:
 - Open Dopamine 3
