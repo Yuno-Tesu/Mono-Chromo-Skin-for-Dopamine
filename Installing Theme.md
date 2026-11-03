@@ -3,7 +3,7 @@
 To install the theme:
 - Open Dopamine 3
 - Open the $${\color{blue}Menu}$$
-- Open $\color{#ff4040}{\text{Settings}}</mark>
+- Open $\color{#ff4040}{\text{Settings}}$
 - Under the section **Colors**, press $${\color{blue}Add \space More \space Themes}$$
 - Copy the theme file into the directory (folder) that opened up
 
